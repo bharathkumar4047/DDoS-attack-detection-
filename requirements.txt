@@ -1,0 +1,36 @@
+# -------------------------------
+# Core Numerical Libraries
+# -------------------------------
+numpy
+pandas
+scikit-learn
+joblib
+
+# -------------------------------
+# Machine Learning Libraries
+# -------------------------------
+xgboost
+
+# -------------------------------
+# Deep Learning
+# -------------------------------
+tensorflow==2.12.0
+
+# -------------------------------
+# Networking & Packet Capture
+# -------------------------------
+scapy
+pydivert        # WinDivert wrapper (stable sniffing on Windows)
+
+# -------------------------------
+# Optional Tools & Helpers
+# -------------------------------
+matplotlib
+seaborn
+requests
+tqdm
+
+# -------------------------------
+# Jupyter Notebook (if needed)
+# -------------------------------
+notebook

@@ -1,0 +1,17 @@
+# Node
+node_modules/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Build files
+dist/
+build/
+
+# OS junk
+.DS_Store
+Thumbs.db
+*.csv
+.ipynb_checkpoints/
